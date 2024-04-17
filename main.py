@@ -29,4 +29,5 @@ print(f"Congratulations! You guessed the secret number {secret_number} in {count
 if count < 5:
     print("Fast thinker")
 else:
-    print("took you awhile")
+    print("Took you awhile")
+       
